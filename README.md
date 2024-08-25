@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👨🏻 I’m @augustolencina
+- 👨🏻 I’m Augusto Lencina
 - 👀 I’m interested in Data Analysts and Apps Developer
 - 📚 I’m currently studying Sistems Engineering
 - 📫 You can contact me via Telegram or email
